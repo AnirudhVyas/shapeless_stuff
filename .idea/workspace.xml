@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02ab8284-39af-4ea1-9519-657afbf34807" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZoK3KpOl2z3HcVmSTN8QmSvh6l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="shapeless_stuff" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="shapeless_stuff [file:/Users/anirudh.vyas/scala/shapeless_stuff/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="shapeless_stuff-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3035776148" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/akka-samples-fsm-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-ws-commons" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../config" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fp_stuff" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ldm" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../masters/portal-metamodel" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../portal-collector-commons" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../portal-hdfs-manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../portal-metamodel" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../portal-query-infrastructure" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../portal-spark-router" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../portal-swh-log-reader" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../portal-swh-submit" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02ab8284-39af-4ea1-9519-657afbf34807" name="Default Changelist" comment="" />
+      <created>1585499806230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585499806230</updated>
+      <workItem from="1585499807635" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
