@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02ab8284-39af-4ea1-9519-657afbf34807" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/free/me/shapeless/CoProductExamples.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/free/me/shapeless/TypeClassDerivation.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/free/me/shapeless/HListExamples.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/free/me/shapeless/HListExamples.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +88,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3171001741287" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="3035776148" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="724242447" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
     </option>
@@ -123,7 +119,7 @@
       <updated>1585499806230</updated>
       <workItem from="1585499807635" duration="2620000" />
       <workItem from="1585582243945" duration="12092000" />
-      <workItem from="1585625427958" duration="13000" />
+      <workItem from="1585625427958" duration="488000" />
     </task>
     <servers />
   </component>
